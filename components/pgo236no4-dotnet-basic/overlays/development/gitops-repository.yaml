@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pgo236no4-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pgo236no4-dotnet-basic-gitops
